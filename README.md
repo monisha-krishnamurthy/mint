@@ -4,6 +4,10 @@ A Java interpreter for a small programming language, built as a four-person team
 
 **Stack:** Java · ANTLR 4.13.2 · Visitor pattern
 
+## Preview
+
+![Mint sample program and its interpreter output](doc/mint-preview.png)
+
 ## Language features
 
 - Integer, floating-point, Boolean, and string values.
